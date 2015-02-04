@@ -3,6 +3,7 @@
     "coverage": {
       "/home/kleer/csd/proyectoPikasHexadecimal/pikas2/Pikas/app.rb": [
         1,
+        1,
         null,
         1,
         2,
@@ -11,8 +12,25 @@
         1,
         3,
         null,
+        null,
         1,
+        0,
+        null,
+        null,
+        0,
+        null
+      ],
+      "/home/kleer/csd/proyectoPikasHexadecimal/pikas2/Pikas/lib/pikas.rb": [
         1,
+        null,
+        1,
+        0,
+        0,
+        0,
+        null,
+        0,
+        null,
+        null,
         null
       ],
       "/home/kleer/csd/proyectoPikasHexadecimal/pikas2/Pikas/features/step_definitions/my_steps.rb": [
@@ -21,7 +39,7 @@
         null,
         null,
         1,
-        6,
+        5,
         null,
         null,
         1,
@@ -44,7 +62,8 @@
         null,
         null,
         1,
-        1,
+        0,
+        0,
         null,
         null,
         null
@@ -79,6 +98,6 @@
         null
       ]
     },
-    "timestamp": 1423074926
+    "timestamp": 1423078138
   }
 }

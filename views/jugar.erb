@@ -1,1 +1,17 @@
-HOLA
+<html>
+<head>
+	
+</head>
+<body>
+	<h1>Jugando</h1><h3><%= @@nombre %></h3>
+	<h1>Nivel actual</h1><h3><%= @@nivelNombre %></h3>
+	<form method="post">
+		<input type="hidden" name="nombre" value="<%= @@nombre %>" />
+		<input type="hidden" name="nivelNombre" value="<%= @@nivelNombre %>" />
+		<input type="text" name="numero" value="<%= @@numero %>" />
+		<label>Intentalo</label>
+		<input type="text" />
+		<input type="submit" value= "calcular" />
+	</form>
+</body>
+</html>

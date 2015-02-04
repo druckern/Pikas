@@ -27,6 +27,7 @@ end
 
 Given(/^oprimi el boton jugar$/) do
   visit '/jugar'
+	@@nombre=params["nombre"]
 end
 
 
