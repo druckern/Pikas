@@ -1,40 +1,25 @@
 {
   "Cucumber Features": {
     "coverage": {
-<<<<<<< HEAD
-      "/home/kleer/csd/Pikas/app.rb": [
+      "/home/kleer/csd/proyectoPikasHexadecimal/pikas2/Pikas/app.rb": [
         1,
         null,
         1,
         2,
         null,
+        null,
+        1,
+        3,
         null
       ],
-      "/home/kleer/csd/Pikas/features/step_definitions/my_steps.rb": [
-        1,
-        2,
-=======
-      "/home/kleer/csd/proyectoPikasHexadecimal/Pikas/app.rb": [
-        1,
-        null,
-        1,
-        null,
-        null,
-        null,
-        1,
-        1,
-        null
-      ],
-      "/home/kleer/csd/proyectoPikasHexadecimal/Pikas/features/step_definitions/my_steps.rb": [
-        1,
-        1,
->>>>>>> 49b997ae5c47d96487c9f637c72c878b9f5477c7
-        null,
-        null,
+      "/home/kleer/csd/proyectoPikasHexadecimal/pikas2/Pikas/features/step_definitions/my_steps.rb": [
         1,
         2,
         null,
-<<<<<<< HEAD
+        null,
+        1,
+        5,
+        null,
         null,
         1,
         1,
@@ -43,18 +28,17 @@
         1,
         1,
         null,
-        null
-      ],
-      "/home/kleer/csd/Pikas/features/step_definitions/template_steps.rb": [
-=======
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
         1,
         0,
-        null,
-        null,
         null
       ],
-      "/home/kleer/csd/proyectoPikasHexadecimal/Pikas/features/step_definitions/template_steps.rb": [
->>>>>>> 49b997ae5c47d96487c9f637c72c878b9f5477c7
+      "/home/kleer/csd/proyectoPikasHexadecimal/pikas2/Pikas/features/step_definitions/template_steps.rb": [
         1,
         0,
         null,
@@ -84,10 +68,6 @@
         null
       ]
     },
-<<<<<<< HEAD
-    "timestamp": 1423060906
-=======
-    "timestamp": 1423061011
->>>>>>> 49b997ae5c47d96487c9f637c72c878b9f5477c7
+    "timestamp": 1423066646
   }
 }

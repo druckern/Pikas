@@ -1,2 +1,3 @@
-coverage/
 webrat.log
+*.json
+coverage
