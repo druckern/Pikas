@@ -4,12 +4,15 @@
 </head>
 <body>
 	<h1>setup del juego</h1>
- <form>ingrese nombre: 
+ <form action="/jugar">ingrese nombre: 
 	<input type="text" name="nombre"/>
+	</br>
 		Seleccione nivel dificultad:
-	<input type="radio" name="groupdificultad1" value="BAJO" checked/>
-	<input type="radio" name="groupdificultad1" value="MEDIO"/>
-	<input type="radio" name="groupdificultad1" value="ALTO"/>
+	<input type="radio" name="groupdificultad1" value="1" checked>Easy</input>
+	<input type="radio" name="groupdificultad1" value="2">Medium</input>
+	<input type="radio" name="groupdificultad1" value="3">High</input>
+	</br>
+	<input type="submit" name="continuar" value="jugar"/>
 		
 </form>
 	

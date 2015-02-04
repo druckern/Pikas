@@ -7,3 +7,6 @@ end
 get '/setup' do
  erb :setup
 end
+get '/jugar' do
+ erb :jugar
+end

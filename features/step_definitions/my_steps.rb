@@ -18,7 +18,15 @@ Given(/^ingrese a la pagina setup$/) do
   visit '/setup'
 end
 
-
-When(/^ingrese mi nombre "(.*?)"$/) do |arg1|
-  pending # express the regexp above with the code you wish you had
+When(/^ingrese mi nombre "(.*?)"$/) do |name|
+  fill_in("nombre", :with => name)
 end
+When(/^oprimir boton "(.*?)"$/) do |name|
+  click_button(name)
+end
+
+Given(/^oprimi el boton jugar$/) do
+  visit '/jugar'
+end
+
+

@@ -10,6 +10,10 @@ Then debo ver "setup del juego"
 And debo ver "ingrese nombre:"
 And debo ver "nivel dificultad"
 
+Scenario: Jugar jugar
+Given oprimi el boton jugar
+Then debo ver "HOLA"
+
 
 
 
